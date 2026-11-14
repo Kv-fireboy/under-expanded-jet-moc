@@ -64,7 +64,7 @@ This prints the estimated shock position and opens three figures:
 
 ```
 .
-├── jet_moc.py          # solver and plotting
+├── underexpanded_jet_moc.py          # solver and plotting
 ├── images/             # figures used in this README
 └── README.md
 ```
